@@ -1,24 +1,26 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Wordle App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Samuel Chibuoyim Uche**
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle** is an app that that allow users to guess words with a limited number of guesses. This app
+has a settings button that allows users to change the number of words per row and the number of guesses.
+It also allows them to change the theme of the app, with a reset button to clear out the words.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can change the number of letters per row (the length of the goal word)
-- [ ] User can change the numbers of rows on the board (how many guesses allowed)
-- [ ] User can select a new themed set to pull the goal word from
-- [ ] User can select "alien wordle", causing the goal word to change after each guess
+- [x] User can change the number of letters per row (the length of the goal word)
+- [x] User can change the numbers of rows on the board (how many guesses allowed)
+- [x] User can select a new themed set to pull the goal word from
+- [x] User can select "alien wordle", causing the goal word to change after each guess
 
 
 The following **optional** features are implemented:
 
-- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
+- [x] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 The following **additional** features are implemented:
 
@@ -37,10 +39,11 @@ The following **additional** features are implemented:
 ## Notes
 
 Describe any challenges encountered while building the app.
+There were no challenges.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 [Samuel Chibuoyim Uche]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
